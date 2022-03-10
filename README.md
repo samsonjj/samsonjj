@@ -33,4 +33,6 @@ Dotfiles: Backup your dotfiles: [dotfiles](https://github.com/samsonjj/dotfiles)
 Notes: NodeJS CLI to take daily notes with Vim, with options to back up to the cloud (in progress, might be out of order for now): [Notes]
 (https://github.com/samsonjj/notes)
 
+Notes-Rust: Notes CLI in Rust. Better than the above notes cli. [notes-rust](https://github.com/samsonjj/notes_rust)
+
 I also have many projects from school classes, hackathons, and projects from way back when I just started to program (2014).
